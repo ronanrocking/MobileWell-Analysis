@@ -24,8 +24,8 @@ Finally, **association rule mining** is conducted to link survey-based mental he
 ## Team Members
 | Name | Roll No. |
 |------|-----------|
-| Ronan Madan |   2409     |
-| Aishwarya Mangalore | 2409      |
+| Ronan Madan |   240953188     |
+| Aishwarya Mangalore | 240953184 |
 | Ishita T  | 240953074 |
 | Nikita Mukta| 240953202 |
 | Avani Muniyangla | 240953742 |
